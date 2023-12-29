@@ -1,0 +1,13 @@
+D:\C#WINFORM\AddrBook\AddrBook\bin\Debug\AddrBook.exe.config
+D:\C#WINFORM\AddrBook\AddrBook\bin\Debug\AddrBook.exe
+D:\C#WINFORM\AddrBook\AddrBook\bin\Debug\AddrBook.pdb
+D:\C#WINFORM\AddrBook\AddrBook\bin\Debug\Oracle.DataAccess.dll
+D:\C#WINFORM\AddrBook\AddrBook\obj\Debug\AddrBook.csproj.AssemblyReference.cache
+D:\C#WINFORM\AddrBook\AddrBook\obj\Debug\AddrBook.FrmLogin.resources
+D:\C#WINFORM\AddrBook\AddrBook\obj\Debug\AddrBook.FrmMDIMain.resources
+D:\C#WINFORM\AddrBook\AddrBook\obj\Debug\AddrBook.Properties.Resources.resources
+D:\C#WINFORM\AddrBook\AddrBook\obj\Debug\AddrBook.csproj.GenerateResource.cache
+D:\C#WINFORM\AddrBook\AddrBook\obj\Debug\AddrBook.csproj.CoreCompileInputs.cache
+D:\C#WINFORM\AddrBook\AddrBook\obj\Debug\AddrBook.csproj.CopyComplete
+D:\C#WINFORM\AddrBook\AddrBook\obj\Debug\AddrBook.exe
+D:\C#WINFORM\AddrBook\AddrBook\obj\Debug\AddrBook.pdb
